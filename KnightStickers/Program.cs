@@ -24,7 +24,7 @@ class Program
     {
         // === НАСТРОЙКИ РАЗМЕРОВ ===
         // Измени эти значения под свои реальные размеры
-        double stickerWidthMm = 22.0;
+        double stickerWidthMm = 21.0;
         double stickerHeightMm = 40.0;
         double distanceBetweenMm = 4.0;
 
